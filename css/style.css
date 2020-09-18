@@ -76,7 +76,7 @@ body .wrap-body{position: relative;}
 /* ---------------------------------------------------------------------------- */
 /* -------------------------------Header-Styles-------------------------------- */
 /* ---------------------------------------------------------------------------- */
-header{background-size: cover;background: url(../images/1-5.jpg) no-repeat center center fixed;height:50vh;width: 100%;z-index: 2;position: relative; }
+header{background-size: cover;background: url(../images/1-2.jpg) no-repeat center center fixed;height:50vh;width: 100%;z-index: 2;position: relative; }
 body.index-page header{height:100vh;}
 header.sub-header{background:#1D2027;min-height: 120px;}
 
